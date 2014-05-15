@@ -1,6 +1,6 @@
 Package: bmmix
-Version: 0.1-0
-Date: 2014/05/09
+Version: 0.1-1
+Date: 2014/05/15
 Title: Bayesian multinomial mixture
 Author: Thibaut Jombart <t.jombart@imperial.ac.uk>
 Maintainer: Thibaut Jombart <t.jombart@imperial.ac.uk>
@@ -9,7 +9,7 @@ Depends: R (>= 3.0.0)
 Imports: utils
 Description: Bayesian multinomial mixture model 
 License: GPL (>= 2)
-Packaged: 2014-05-09 08:16:14 UTC; thibaut
+Packaged: 2014-05-16 06:27:36 UTC; thibaut
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-05-09 11:37:37
+Date/Publication: 2014-05-16 08:38:39
